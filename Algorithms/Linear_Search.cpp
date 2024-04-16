@@ -1,7 +1,7 @@
 #include<iostream>
 
 int LinearSearch(int arr[],int size,int target);
-//MARK: Main Funtion
+//MARK: Main Function
 int main(){
 
     int size;
